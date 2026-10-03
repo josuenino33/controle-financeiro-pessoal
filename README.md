@@ -1,4 +1,4 @@
-# Dashboard Financeiro Full Stack
+# Controle financeiro pessoal
 
 Este projeto foi reorganizado para uma aplicação full stack com:
 
